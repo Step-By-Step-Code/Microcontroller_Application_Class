@@ -3,9 +3,9 @@
 ---
 
 # 최종 하드웨어 
-![화면1](Pictures\Master_MCU.jpg)
-![화면2](Pictures\Slave_MCU.jpg)
-![화면1](Pictures\peripheral_device.jpg)
+![화면1](./Pictures\Master_MCU.jpg)
+![화면2](./Pictures\Slave_MCU.jpg)
+![화면1](./Pictures\peripheral_device.jpg)
 
 ---
 
